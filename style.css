@@ -1,0 +1,13 @@
+/* Styles go here */
+
+.brick{
+ /* width: 80px;*/
+  height: 40px;
+  margin: 5px; 
+  position:absolute;
+} 
+
+.container{
+	width: 800px;
+	height: 500px;
+}
